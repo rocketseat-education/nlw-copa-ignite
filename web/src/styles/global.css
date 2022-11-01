@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+body {
+  -webkit-font-smoothing: antialiased; /* or @apply antialiased */
+}
