@@ -7,6 +7,8 @@
   <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=F7DD43&labelColor=202024" alt="License"></a>
 </p>
 
+<img src=".github/web.png">
+
 ## 💻 Projeto
 
 Aplicação para participar de bolões da Copa do Mundo 2022.
