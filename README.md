@@ -25,7 +25,7 @@ Aplicação para participar de bolões da Copa do Mundo 2022.
 
 ## 🚀 Como executar
 
-Em todos os projetos, ao acessar a pasta, é preciso baixar os pacotes com o gerenciador de sua preferencia.
+Em todos os projetos, ao acessar a pasta, é preciso baixar os pacotes com o gerenciador de sua preferência.
 
 Acesse a documentação de cada projeto:
 
